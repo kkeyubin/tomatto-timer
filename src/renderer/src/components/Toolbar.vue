@@ -42,7 +42,7 @@
         :class="{ active: isAlwaysOnTop }"
         @click="toggleAlwaysOnTop"
       >
-       置顶
+       置顶!
       </button>
 
       <!-- 窗口控制按钮（原标题栏功能） -->
